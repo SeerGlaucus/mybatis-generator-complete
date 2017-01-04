@@ -1,0 +1,17 @@
+.settings
+*.project
+*.classpath
+target
+*Test.java
+/bin/
+*.class
+*.iml
+.idea/*
+.myumldata
+*.bak
+.tern-project
+*.log
+bin
+.externalToolBuilders
+/.idea
+*.launch
